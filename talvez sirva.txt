@@ -1,0 +1,3 @@
+nmap -D RND:20 --open -sS -sV
+
+gobuster --no-error -r
